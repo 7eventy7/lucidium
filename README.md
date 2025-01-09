@@ -4,20 +4,12 @@
 
 ![lucidium-title](./images/title/lucidium-title.png)
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://modrinth.com/resourcepack/lucidium" style="display: block; width: 140px; padding: 8px; margin: 8px auto; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
-    <img src="./images/icons/modrinth.png" alt="Modrinth" style="height: 16px; vertical-align: middle; margin-right: 5px;">
-    Modrinth
-  </a>
-  <a href="https://www.planetminecraft.com/texture-pack/lucidium/" style="display: block; width: 140px; padding: 8px; margin: 8px auto; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
-    <img src="./images/icons/planetminecraft.png" alt="PlanetMinecraft" style="height: 16px; vertical-align: middle; margin-right: 5px;">
-    PlanetMinecraft
-  </a>
-  <a href="https://www.curseforge.com/minecraft/texture-packs/lucidium" style="display: block; width: 140px; padding: 8px; margin: 8px auto; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
-    <img src="./images/icons/curseforge.png" alt="CurseForge" style="height: 16px; vertical-align: middle; margin-right: 5px;">
-    CurseForge
-  </a>
-</div>
+[![Modrinth](./images/icons/modrinth.png) Download from Modrinth](https://modrinth.com/resourcepack/lucidium)
+
+[![PlanetMinecraft](./images/icons/planetminecraft.png) Download from PlanetMinecraft](https://www.planetminecraft.com/texture-pack/lucidium/)
+
+[![CurseForge](./images/icons/curseforge.png) Download from CurseForge](https://www.curseforge.com/minecraft/texture-packs/lucidium)
+
 </div>
 
 <hr>
