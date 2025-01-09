@@ -4,11 +4,11 @@
 
 ![lucidium-title](./images/title/lucidium-title.png)
 
-[![Modrinth](./images/icons/modrinth.png) Download from Modrinth](https://modrinth.com/resourcepack/lucidium)
+[![Modrinth](./images/icons/modrinth.png) Modrinth](https://modrinth.com/resourcepack/lucidium)
 
-[![PlanetMinecraft](./images/icons/planetminecraft.png) Download from PlanetMinecraft](https://www.planetminecraft.com/texture-pack/lucidium/)
+[![PlanetMinecraft](./images/icons/planetminecraft.png) PlanetMinecraft](https://www.planetminecraft.com/texture-pack/lucidium/)
 
-[![CurseForge](./images/icons/curseforge.png) Download from CurseForge](https://www.curseforge.com/minecraft/texture-packs/lucidium)
+[![CurseForge](./images/icons/curseforge.png) CurseForge](https://www.curseforge.com/minecraft/texture-packs/lucidium)
 
 </div>
 
