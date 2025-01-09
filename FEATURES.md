@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="./images/header/features.png" style="height: 50px;">
-  <a href="https://github.com/7eventy7/Lucidium" style="display: inline-block; padding: 4px 12px; color: #FF6B71; text-decoration: none; border: 1px solid #FF6B71; border-radius: 4px; font-size: 12px;">BACK</a>
-</div>
+# Features
+
+[![Back to Main](./images/header/features.png)](https://github.com/7eventy7/Lucidium)
 
 > A comprehensive categorized list of all the changes made in Lucidium.
 
@@ -19,8 +18,8 @@ This texture pack has native support covering the GUI from many popular mods inc
 
 Improvements to redstone-related blocks with enhanced visual indicators and state displays.
 
-- Block - | - changes - | - blockstates -
--|-|-
+Block|Changes|Blockstates
+---|---|---
 **Redstone Torch** | *updated texture with visual indicators* | *powered*
 **Minecart Rail** | *enhanced metallic texture on all variants* | *powered*
 **Pressure Plates** | *updated texture with state indicators* | *powered*
@@ -52,8 +51,8 @@ Improvements to redstone-related blocks with enhanced visual indicators and stat
 
 Visual refinements to item textures for improved distinction and clarity.
 
-- Item - | - type - | - details -
--|-|-
+Item|Type|Details
+---|---|---
 **Minecart** | *visual* | *enhanced metallic texture*
 **Banner Pattern** | *visual* | *updated texture for powder distinction*
 **Iron Nugget** | *visual* | *updated texture distinct from gold*
@@ -84,8 +83,8 @@ Visual refinements to item textures for improved distinction and clarity.
 
 Items with updated dimensional representations.
 
-- Item - | - format - | - details -
--|-|-
+Item|Format|Details
+---|---|---
 **Glass Pane** | *3d* | *updated model and texture*
 **Bell** | *3d* | *updated model only*
 **Cauldron** | *3d* | *updated model and texture*
@@ -107,8 +106,8 @@ Items with updated dimensional representations.
 
 Items with updated durability displays and material textures.
 
-- Item - | - type - | - details -
--|-|-
+Item|Type|Details
+---|---|---
 **Elytra** | *visual* | *updated netherite-matching texture*
 **Tools** | *visual* | *updated wooden variant textures*
 **Bow** | *visual* | *updated distinct wood texture*
@@ -122,8 +121,8 @@ Items with updated durability displays and material textures.
 
 Visual enhancements to block textures and models.
 
-- Block - | - type - | - details -
--|-|-
+Block|Type|Details
+---|---|---
 **Dragon Egg** | *visual* | *updated hitbox alignment*
 **Ancient Debris** | *visual* | *updated texture blending*
 **Wool** | *visual* | *updated dithering pattern*
@@ -139,8 +138,8 @@ Visual enhancements to block textures and models.
 
 Blocks with multiple texture variants for visual diversity.
 
-- Block - | - count - | - details -
--|-|-
+Block|Count|Details
+---|---|---
 **Bricks** | *4* | *varied color patterns*
 **Birch Log** | *5* | *varied bark patterns*
 **End Stone** | *6* | *varied surface patterns*
@@ -163,8 +162,8 @@ Blocks with multiple texture variants for visual diversity.
 
 Technical specifications for plant-related blocks.
 
-- Block - | - state - | - range -
--|-|-
+Block|State|Range
+---|---|---
 **Farmland** | *moisture* | *0-7*
 **Leaves** | *distance* | *0-7*
 **Vines** | *age* | *0-25*
@@ -175,8 +174,8 @@ Technical specifications for plant-related blocks.
 
 Visual updates to game entities.
 
-- Entity - | - type - | - details -
--|-|-
+Entity|Type|Details
+---|---|---
 **Horse** | *mount* | *updated leather-matching texture*
 **Villager** | *passive* | *updated leather-matching texture*
 **Zombie** | *hostile* | *updated clothing texture*
@@ -189,8 +188,8 @@ Visual updates to game entities.
 
 Interface element improvements.
 
-- Element - | - type - | - details -
--|-|-
+Element|Type|Details
+---|---|---
 **Crosshair** | *menu* | *updated size and clarity*
 **Escape Menu** | *menu* | *updated background darkness*
 **Options Menu** | *menu* | *updated obsidian theme*
@@ -213,8 +212,8 @@ Interface element improvements.
 
 Visual overlay and effect improvements.
 
-- Effect - | - type - | - details -
--|-|-
+Effect|Type|Details
+---|---|---
 **Enchantment Glint** | *visual* | *distinct item/entity effects*
 **Pumpkin Overlay** | *overlay* | *custom blur animation*
 **Underwater** | *overlay* | *modified visibility effect*
@@ -227,8 +226,8 @@ Visual overlay and effect improvements.
 
 Sound volume adjustments.
 
-- Sound - | - type - | - reduction -
--|-|-
+Sound|Type|Reduction
+---|---|---
 **Rain** | *ambient* | *-30%*
 **Water** | *ambient* | *-25%*
 **Fire** | *ambient* | *-35%*
@@ -246,8 +245,8 @@ Sound volume adjustments.
 
 Name standardization across English variants.
 
-- Item - | - language - | - change -
--|-|-
+Item|Language|Change
+---|---|---
 **Steak** | *us* | *changed to "cooked beef"*
 **Steak** | *uk* | *changed to "cooked beef"*
 **Roast Chicken** | *uk* | *changed to "cooked chicken"*
