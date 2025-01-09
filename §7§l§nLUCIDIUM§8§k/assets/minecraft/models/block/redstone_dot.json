@@ -1,4 +1,5 @@
 {
+"credit": "Made by 7eventy7",
     "ambientocclusion": false,
     "textures": {
         "particle": "block/redstone_dust_dot",

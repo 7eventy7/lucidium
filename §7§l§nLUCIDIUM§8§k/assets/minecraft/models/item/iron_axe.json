@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/iron_axe_0"
+        "layer0": "item/iron_axe"
     },
     "overrides": [
         {
@@ -9,7 +9,7 @@
                 "damaged": 1,
                 "damage": 0.99
             },
-            "model": "item/iron_axe/iron_axe_1"
+            "model": "item/iron_axe_broken"
         }
     ]
 }

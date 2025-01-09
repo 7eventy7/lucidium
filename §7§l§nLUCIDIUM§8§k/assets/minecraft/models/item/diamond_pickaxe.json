@@ -1,15 +1,15 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_pickaxe_0"
+        "layer0": "item/diamond_pickaxe"
     },
     "overrides": [
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.99
+                "damage": 0.95
             },
-            "model": "item/diamond_pickaxe/diamond_pickaxe_1"
+            "model": "item/diamond_pickaxe_broken"
         }
     ]
 }

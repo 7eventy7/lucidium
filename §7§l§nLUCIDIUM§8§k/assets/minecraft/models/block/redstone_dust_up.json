@@ -1,9 +1,10 @@
 {
-"ambientocclusion": false,
+"credit": "Made by 7eventy7",
+    "ambientocclusion": false,
     "textures": {
         "particle": "block/redstone_dust_dot",
-        "0": "block/redstone_dust_line0",
-        "1": "block/redstone_dust_line1"
+        "0": "block/redstone_dust_line",
+        "1": "block/redstone_dust_line"
 				},
     "elements": [
         {

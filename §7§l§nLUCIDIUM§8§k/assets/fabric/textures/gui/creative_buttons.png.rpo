@@ -1,0 +1,4 @@
+{
+    condition: "darkMode.xFalse",
+    fallbacks: "assets/fabric/textures/gui/creative_buttons_dark.png"
+}

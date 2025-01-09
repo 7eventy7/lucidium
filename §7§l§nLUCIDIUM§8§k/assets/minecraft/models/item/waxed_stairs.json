@@ -2,11 +2,12 @@
 	"credit": "Created by Stridey",
 	"parent": "block/block",
 	"textures": {
-		"side1": "#side1",
-		"side2": "#side2",
-		"inner": "#inner",
-		"double1": "#double1",
-		"top": "#top"
+		"side1": "side1",
+		"side2": "side2",
+		"inner": "inner",
+		"double1": "double1",
+		"top": "top",
+		"particle": "top"
 	},
 	"elements": [
 		{

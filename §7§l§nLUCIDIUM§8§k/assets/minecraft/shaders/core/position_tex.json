@@ -1,6 +1,6 @@
 {
-    "vertex": "position_tex",
-    "fragment": "position_tex",
+    "vertex": "core/position_tex",
+    "fragment": "core/position_tex",
     "samplers": [
         { "name": "Sampler0" }
     ],

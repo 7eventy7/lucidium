@@ -1,6 +1,14 @@
 {
-	"pack": {
-		"pack_format": 34,
-		"description": [{"text":" Version: 1.1.0 || Java: 1.21.x","color":"white"},{"text":"\n§o  Courtesy of 7eventy7","color":"gray"}]
-	}
+    "pack": {
+        "pack_format": 46,
+        "description": [{"text":" Version: 1.2.0 || Java: 1.21.4","color":"white"},{"text":"\n§o  Courtesy of 7eventy7","color":"gray"}]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {"min_inclusive": 46, "max_inclusive": 46},
+                "directory": "overlay"
+            }
+        ]
+    }
 }

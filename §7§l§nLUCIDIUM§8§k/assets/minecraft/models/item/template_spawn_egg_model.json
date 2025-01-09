@@ -1,5 +1,8 @@
 {
     "gui_light": "front",
+    "textures": {
+        "particle": "#texture"
+    },
     "display": {
         "ground": {
             "rotation": [ 0, 0, 0 ],
@@ -99,5 +102,5 @@
                 "east":  { "uv": [ 8, 2, 9, 3 ], "texture": "#texture" }
             }
         }
-	]
+    ]
 }

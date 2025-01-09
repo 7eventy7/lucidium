@@ -1,5 +1,5 @@
 {
   "variants": {
-    "persistent=false,distance=7": {"model": "minecraft:block/dead_mangrove_leaves"}
+    "persistent=false,distance=7": {"model": "minecraft:block/mangrove_leaves_dead"}
   }
 }

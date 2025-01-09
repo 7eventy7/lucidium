@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/stem_attached",
+  "textures": {
+    "stem": "minecraft:block/pumpkin_stem_attached",
+    "peduncle": "minecraft:block/pumpkin_stem_peduncle"
+  }
+}

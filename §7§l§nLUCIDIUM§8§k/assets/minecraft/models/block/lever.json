@@ -4,7 +4,7 @@
 	"textures": {
 		"2": "block/leveron",
 		"lever": "block/leverhandle",
-		"particle": "block/smooth_stoneparticle"
+		"particle": "block/smooth_stone"
 	},
 	"elements": [
 		{

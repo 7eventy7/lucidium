@@ -1,6 +1,21 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/black_stained_glass_pane"
-  }
+  "parent": "minecraft:block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+    "end": "minecraft:block/black_stained_glass_pane_top",
+    "side": "minecraft:block/black_stained_glass"
+    },
+    "elements": [
+        {   "from": [ 6, 0, 0 ],
+            "to": [ 8, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [  7, 0,  9,  7 ], "texture": "#end" },
+                "up":    { "uv": [  7, 0,  9,  7 ], "texture": "#end" },
+                "north": { "uv": [  7, 0,  9, 16 ], "texture": "#end", "cullface": "north" },
+                "south": { "uv": [  7, 0,  9, 16 ], "texture": "#end", "cullface": "south" },
+                "west":  { "uv": [  0, 0,  16, 16 ], "texture": "#side" },
+                "east":  { "uv": [  0, 0,  16, 16 ], "texture": "#side" }
+            }
+        }
+    ]
 }

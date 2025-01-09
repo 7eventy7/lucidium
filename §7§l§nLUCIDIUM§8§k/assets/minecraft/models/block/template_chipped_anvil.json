@@ -52,7 +52,6 @@
 				"east": {"uv": [16, 0, 10, 16], "rotation": 270, "texture": "#body"},
 				"south": {"uv": [3, 10, 13, 16], "texture": "#body"},
 				"west": {"uv": [10, 0, 16, 16], "rotation": 90, "texture": "#body"},
-				"up": {"uv": [3, 0, 13, 16], "rotation": 180, "texture": "#missing"},
 				"down": {"uv": [3, 0, 13, 16], "rotation": 180, "texture": "#body"}
 			}
 		},

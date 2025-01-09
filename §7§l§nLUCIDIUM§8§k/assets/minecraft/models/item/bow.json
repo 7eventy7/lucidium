@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/bow_0"
+        "layer0": "item/bow"
     },
     "display": {
         "thirdperson_righthand": {
@@ -78,54 +78,47 @@
             "predicate": {
                 "pulling": 1
             },
-            "model": "item/bow_pulling_0/bow_pulling_0_0"
+            "model": "item/bow_pulling_0"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/bow_pulling_1/bow_pulling_1_0"
+            "model": "item/bow_pulling_1"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/bow_pulling_2/bow_pulling_2_0"
+            "model": "item/bow_pulling_2"
         },
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.98
-            },
-            "model": "item/bow/bow_1"
-        },
-        {
-            "predicate": {
-                "damaged": 1,
-                "damage": 0.98,
+                "damage": 0.95,
                 "pulling": 1
             },
-            "model": "item/bow_pulling_0/bow_pulling_0_1"
+            "model": "item/bow_pulling_0_broken"
         },
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.98,
+                "damage": 0.95,
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/bow_pulling_1/bow_pulling_1_1"
+            "model": "item/bow_pulling_1_broken"
         },
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.98,
+                "damage": 0.95,
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/bow_pulling_2/bow_pulling_2_1"
+            "model": "item/bow_pulling_2_broken"
         }
     ]
 }

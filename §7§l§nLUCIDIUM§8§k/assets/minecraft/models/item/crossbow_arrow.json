@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:item/crossbow",
+    "textures": {
+        "layer0": "minecraft:item/crossbow_arrow"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/crossbow_arrow_broken"
+        }
+    ]
+}

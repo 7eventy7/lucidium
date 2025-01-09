@@ -2,11 +2,11 @@
 	"credit": "Made by 7eventy7",
 	"ambientocclusion": false,
 	"textures": {
-		"3": "block/hopper_side_inside_off",
-		"4": "block/hopper_side_back_off",
+		"3": "block/hopper_side_inside_on",
+		"4": "block/hopper_side_back_on",
 		"5": "block/hopper_top",
 		"6": "block/hopper_inside",
-		"particle": "block/hopper_side_inside_off",
+		"particle": "block/hopper_side_inside_on",
 		"back": "block/hopper_back"
 	},
 	"elements": [

@@ -1,21 +1,23 @@
 {
 	"credit": "Made by 7eventy7",
 	"textures": {
-		"0": "block/dragon_egg_side",
-		"1": "block/dragon_egg_top",
-		"particle": "block/dragon_egg_side"
+		"2": "block/dragon_egg_back",
+		"3": "block/dragon_egg_front",
+		"4": "block/dragon_egg_bottom",
+		"5": "block/dragon_egg_top",
+		"particle": "block/dragon_egg_back"
 	},
 	"elements": [
 		{
 			"from": [1, 0, 1],
 			"to": [15, 16, 15],
 			"faces": {
-				"north": {"uv": [2, 0, 16, 16], "texture": "#0"},
-				"east": {"uv": [2, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [2, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [2, 0, 16, 16], "texture": "#0"},
-				"up": {"uv": [2, 2, 16, 16], "texture": "#1"},
-				"down": {"uv": [2, 2, 16, 16], "texture": "#1"}
+				"north": {"uv": [2, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [2, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [2, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [2, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [2, 2, 16, 16], "texture": "#5"},
+				"down": {"uv": [2, 2, 16, 16], "texture": "#4"}
 			}
 		}
 	]

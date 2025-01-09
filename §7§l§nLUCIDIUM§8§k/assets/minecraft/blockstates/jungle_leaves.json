@@ -1,5 +1,5 @@
 {
   "variants": {
-    "persistent=false,distance=7": {"model": "minecraft:block/dead_jungle_leaves"}
+    "persistent=false,distance=7": {"model": "minecraft:block/jungle_leaves_dead"}
   }
 }

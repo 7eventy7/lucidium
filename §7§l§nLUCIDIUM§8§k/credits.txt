@@ -7,18 +7,18 @@
 ##       ##     ## ##    ##  ##  ##     ##  ##  ##     ## ##     ## 
 ########  #######   ######  #### ########  ####  #######  ##     ##
 
-v1.1.0 - June 24, 2024
+Credits v1.2.0 - January 9, 2025
 =====================================================================================================================================================================================================================================================
 DEVELOPED BY: 7EVENTY7
 
-◆ CARRD.CO: https://7eventy7.carrd.co/
+◆ PROFILE: https://7eventy7.github.io/
 	✦ MODRINTH: https://modrinth.com/user/7eventy7
-	✦ CURSEFORGE: https://legacy.curseforge.com/members/77eventy/projects
+	✦ CURSEFORGE: https://www.curseforge.com/members/7eventy7/projects
 	✦ PLANET MINECRAFT: https://www.planetminecraft.com/member/7eventy7/
 	
 =====================================================================================================================================================================================================================================================
 
-■ SOFTWARE ATRRIBUTION: Aseprite | Blockbench | Photoshop | Notepad++ | VS Code | GPT4
+■ SOFTWARE ATRRIBUTION: Aseprite | Blockbench | Adobe Photoshop | Affinity Photo | Notepad++ | VS Code | GPT4
 
 ■ LICENSING TERMS: This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 	https://creativecommons.org/licenses/by-nc-sa/4.0/ | https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
@@ -30,6 +30,7 @@ DEVELOPED BY: 7EVENTY7
 	> Lucidium Features Assets From These Amazing Resource Packs: ( with permission received from each author )
 
 ● Vanilla Tweaks                       		  🔗 https://vanillatweaks.net/picker/resource-packs/                                                     🎨 Vanilla Tweaks Team
+● 2D Inventory Items                          🔗 https://spyril.neocities.org/                                                                        🎨 Bellacarved
 ● Maximum Cubes!                      		  🔗 https://www.curseforge.com/minecraft/texture-packs/maximum-cubes                                     🎨 bignuancemc                 🌐 https://www.curseforge.com/members/bignuancemc/projects
 ● GUI Retextures                      		  🔗 https://www.curseforge.com/minecraft/texture-packs/gui-retextures                                    🎨 flatjim_                    🌐 https://www.curseforge.com/members/flatjim_/projects
 ● XeKr Redstone Display               		  🔗 https://www.curseforge.com/minecraft/texture-packs/xekr-redstone-display                             🎨 XeKr                        🌐 https://www.curseforge.com/members/xekr/projects
@@ -45,16 +46,16 @@ DEVELOPED BY: 7EVENTY7
 ● Bottom Texture Fix                  		  🔗 https://www.planetminecraft.com/texture-pack/bottom-texture-fix/                                     🎨 Pynk                        🌐 https://www.planetminecraft.com/member/pynk/
 ● Vanilla Connected Sandstone          		  🔗 https://www.planetminecraft.com/texture-pack/vanilla-connected-sandstone/                            🎨 Etungula                    🌐 https://www.planetminecraft.com/member/etungula/
 ● Little Recovery Compass                     🔗 https://www.planetminecraft.com/texture-pack/little-recovery-compass/                                🎨 Kynyu                       🌐 https://www.planetminecraft.com/member/kynyu/
-● Chests Reimagined                           🔗 https://www.planetminecraft.com/texture-pack/chests-reimagined/                                      🎨 Reijvi                      🌐 https://www.planetminecraft.com/member/reijvi/
 ● Accurate Boat Items                         🔗 https://www.planetminecraft.com/texture-pack/accurate-boat-items/                                    🎨 FilipJestem                 🌐 https://www.planetminecraft.com/member/filipjestem/
 ● Better Sniffer Egg                          🔗 https://www.planetminecraft.com/texture-pack/sniffer-egg-fix-better-sniffer-egg-for-1-20-bedrock/    🎨 Roxelana69                  🌐 https://www.planetminecraft.com/member/roxelana69/
 ● Custom Tabs                                 🔗 https://www.planetminecraft.com/texture-pack/custom-tabs/                                            🎨 DartCat25                   🌐 https://www.planetminecraft.com/member/dartcat25/
-● Consistent Leads                            🔗 https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs/                         🎨 Amaro_Lunatico              🌐 https://www.planetminecraft.com/member/amaro_lunatico/
 ● Voxilla                                     🔗 https://www.planetminecraft.com/texture-pack/voxilla/                                                🎨 LunaByte                    🌐 https://www.planetminecraft.com/member/lunabyte/
 ● Cappee's Tall Flower Items       		      🔗 https://www.planetminecraft.com/texture-pack/cappee-s-tall-flower-items/                             🎨 Cappee                      🌐 https://www.planetminecraft.com/member/cappee/
 ● Animated Sensors                            🔗 https://www.planetminecraft.com/texture-pack/animates-sensors-past-visions-add-on/                   🎨 voxelotl                    🌐 https://www.planetminecraft.com/member/voxelotl/
 ● Unique Discs!                               🔗 https://www.planetminecraft.com/texture-pack/unique-discs-1-19-3/                                    🎨 Qncognito                   🌐 https://www.planetminecraft.com/member/qncognito/
 ● Smoothpack                                  🔗 https://www.planetminecraft.com/texture-pack/smoothpack-5460281/                                     🎨 Entium                      🌐 https://www.planetminecraft.com/member/entium/
+● Chests Reimagined                           🔗 https://www.planetminecraft.com/texture-pack/chests-reimagined/                                      🎨 Reijvi                      🌐 https://www.planetminecraft.com/member/reijvi/
+● Breadier Bread                              🔗 https://www.planetminecraft.com/texture-pack/breadier-bread/                                         ^^                             ^^
 ● XXVI's Random Chiseled Bookshelves          🔗 https://www.planetminecraft.com/texture-pack/xxvi-s-random-chiseled-bookshelves/                     🎨 Manuel XXVI                 🌐 https://www.planetminecraft.com/member/manuel_xxvi/
 ● XXVI's Enhanced Iron Bars                   🔗 https://www.planetminecraft.com/texture-pack/xxvi-s-enhanced-iron-bars/                              ^^                             ^^
 ● Blockstates+                       		  🔗 https://www.planetminecraft.com/texture-pack/blockstates/                                            🎨 WeNAN Studios               🌐 https://www.planetminecraft.com/member/wenan_studios/
@@ -71,10 +72,13 @@ DEVELOPED BY: 7EVENTY7
 ● Anvil Sides                                 🔗 https://www.planetminecraft.com/texture-pack/anvil-sides/                                            ^^                             ^^
 ● Consistent Chains                           🔗 https://www.planetminecraft.com/texture-pack/consistent-chains-java-edition/                         🎨 IcarusIsBestGirl            🌐 https://www.planetminecraft.com/member/icarusisbestgirl/
 ● Helmet Tweaks                               🔗 https://www.planetminecraft.com/texture-pack/helmet-tweaks-default-items-java-edition/               ^^                             ^^
-● Prettier Plates (& Buttons)                 🔗 https://www.planetminecraft.com/texture-pack/prettier-plates-amp-buttons                             🎨 carriecare                  🌐 https://www.planetminecraft.com/member/carriecare/
+● Consistent Leads                            🔗 https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs/                         🎨 Amaro_Lunatico              🌐 https://www.planetminecraft.com/member/amaro_lunatico/
+● Tweaked Spyglass                            🔗 https://www.planetminecraft.com/texture-pack/tweaked-spyglass/                                       ^^                             ^^
+● Prettier Plates (& Buttons)                 🔗 https://www.planetminecraft.com/texture-pack/prettier-plates-amp-buttons                             🎨 careeoki                  🌐 https://www.planetminecraft.com/member/carriecare/
 ● Fantastic Flora               		      🔗 https://www.planetminecraft.com/texture-pack/fantastic-flora/                                        ^^                             ^^
 ● Bed Items                       		      🔗 https://www.planetminecraft.com/texture-pack/bed-items/                                              ^^                             ^^
+● Recrafted Table                             🔗 https://www.planetminecraft.com/texture-pack/recrafted-table/                                        ^^                             ^^
 
 =====================================================================================================================================================================================================================================================
 
-[ I'd like to extend an open appreciation to all the amazing artists that allowed me to edit and use their textures, models, and concepts. Please go support them and the amazing packs that helped make this pack possible! ]
+[ I'd like to extend an open appreciation to all the amazing artists that allowed me to edit and use their textures, models, and concepts. Please go support them and the amazing packs that helped make this pack possible. ]

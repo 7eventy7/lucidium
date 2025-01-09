@@ -1,23 +1,11 @@
 {
-	"credit": "Made by 7eventy7",
-	"textures": {
-		"front": "block/cherry_trapdoor",
-		"front_alt": "block/cherry_trapdoor_alt",
-		"sides": "block/cherry_trapdoor_sides",
-		"particle": "block/cherry_trapdoor"
-	},
-	"elements": [
-		{
-			"from": [0, 13, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 3, 16, 0], "rotation": 180, "texture": "#sides", "cullface": "north"},
-				"east": {"uv": [16, 0, 0, 3], "rotation": 180, "texture": "#sides", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#sides", "cullface": "south"},
-				"west": {"uv": [16, 3, 0, 0], "rotation": 180, "texture": "#sides", "cullface": "west"},
-				"up": {"uv": [16, 16, 0, 0], "texture": "#front_alt", "cullface": "up"},
-				"down": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#front"}
-			}
-		}
-	]
+    "credit": "Made by 7eventy7",
+    "parent": "minecraft:block/template_trapdoor_top",
+    "ambientocclusion": false,
+    "textures": {
+        "front": "minecraft:block/cherry_trapdoor_front",
+        "back": "minecraft:block/cherry_trapdoor_back",
+        "sides": "minecraft:block/cherry_trapdoor_sides",
+        "particle": "minecraft:block/cherry_trapdoor_front"
+    }
 }

@@ -1,7 +1,8 @@
 {
 	"credit": "Made by 7eventy7",
 	"textures": {
-		"layer0": "block/torch"
+		"layer0": "block/torch",
+		"particle": "block/torch"
 	},
 	"elements": [
 		{

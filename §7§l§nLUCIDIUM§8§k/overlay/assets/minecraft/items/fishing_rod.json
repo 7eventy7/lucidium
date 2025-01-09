@@ -1,0 +1,38 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod_cast"
+          },
+          "property": "minecraft:fishing_rod/cast"
+        }
+      },
+      {
+        "threshold": 0.95,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod_broken"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod_cast_broken"
+          },
+          "property": "minecraft:fishing_rod/cast"
+        }
+      }
+    ]
+  }
+}

@@ -69,7 +69,7 @@ Herregud!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
-OpenGL 2.1 (if supported)!
+Now on OpenGL 3.2 core profile!
 Thousands of colors!
 Try it!
 Age of Wonders is better!
@@ -123,7 +123,7 @@ Seecret Friday update!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -163,7 +163,6 @@ Kick it root down!
 Regional resources!
 Woo, facepunch!
 Woo, somethingawful!
-Woo, /v/!
 Woo, tigsource!
 Woo, worldofminecraft!
 Woo, reddit!
@@ -280,7 +279,6 @@ Pumpa kungen!
 Helo Cymru!
 Cześć Polsko!
 你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
@@ -302,7 +300,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Now Java 8!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -415,17 +413,47 @@ Amplify and listen to BIPOC voices!
 Educate your friends on anti-racism!
 Support the BIPOC community and creators!
 Stand up for equality in your community!
+[this splash text is now available]
+Contains simulated goats!
+Home-made!
+There's <<a cat on ,my keyboard!~
+The cutest predator you'll ever meet!
+Now you are thinking with pistons!
+Get to the coppah!
+Board game version also available!
+Honey, I waxed the copper!
+Plant-based light sources!
+Made by "real" people!
+Shriek like a Sculk Shrieker!
+Who let the frogs out?
+RIBBIT!
+Croak team!
+Nooooooooooooo!
+Flower forest TM perfume
+Hat Fridays!
+Technoblade never dies!
+You are valid!
+I'm glad you're here!
+You are welcome here!
+Your gender is valid!
+Contains infinite genders!
+Made with lave!
+This sand is sus
+Remember to brush your... ...teeth
+Has working bookshelves!
+Sniff sniff...
+Place hanging sign here
+Joule is neat too!
 7 is a cool number!
 77 is an even cooler number!
-Who painted this connection red?
-Who shifted this down?
-Also Try Chlamydia!
-Also Try Lamb Phao!
+Thank you Ewan!
+Also try Lamb Phao!
 Take me back to 1.12
-Mojang=Cringe
-Cringe=Banned
-
-
-
-
-
+Definitely not vanilla
+Texture pack? More like texture HACK
+Sponsored by existential uncertainty
+Minecraft, but make it lucid
+Minecraft, but make it pretentious
+404: Vanilla Texture Not Found
+We broke the texture laws
+[rendercore activated]

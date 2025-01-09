@@ -1,12 +1,17 @@
-# GALLERY
+<div style="display: flex; align-items: center; gap: 16px;">
+  <img src="./images/header/gallery.png" style="height: 50px;">
+  <a href="https://github.com/7eventy7/Lucidium" style="display: inline-block; padding: 4px 12px; color: #FF6B71; text-decoration: none; border: 1px solid #FF6B71; border-radius: 4px; font-size: 12px;">BACK</a>
+</div>
 
-![A - Cover](https://github.com/7eventy7/Lucidium/assets/75962770/792ea66b-5e57-4004-b899-065b0095bcdd)
-![B - Item](https://github.com/7eventy7/Lucidium/assets/75962770/4c154180-efe6-45ee-a874-0a31e1746c86)
-![C - Blocks](https://github.com/7eventy7/Lucidium/assets/75962770/8562a202-549e-40cf-a7fa-1bbad786c002)
-![D - Technical](https://github.com/7eventy7/Lucidium/assets/75962770/19ea128d-1639-47e6-adf0-30e5cccd247d)
-![E - Interface](https://github.com/7eventy7/Lucidium/assets/75962770/004a0205-a6cb-4b01-8174-d957c3622c31)
-![SplitScreen - 1](https://github.com/7eventy7/Lucidium/assets/75962770/11797323-b2ee-4cd3-b258-53a1098190ea)
-![SplitScreen - 2](https://github.com/7eventy7/Lucidium/assets/75962770/6d162b28-72ce-4370-bce3-de62f64bc35d)
-![SplitScreen - 3](https://github.com/7eventy7/Lucidium/assets/75962770/94bec8af-4e54-4222-bffd-078357c4c95c)
-![SplitScreen - 4](https://github.com/7eventy7/Lucidium/assets/75962770/8f343a32-c0ea-4ecb-8b76-d2928078b930)
-![SplitScreen - 5](https://github.com/7eventy7/Lucidium/assets/75962770/87da0c36-1897-47a0-a904-3970832723b6)
+> A comparative gallery of images showing the changes in Lucidium.
+
+![a-cover](./images/gallery/a-cover.png)
+![b-item](./images/gallery/b-item.png)
+![c-block](./images/gallery/c-block.png)
+![d-tech](./images/gallery/d-tech.png)
+![e-interface](./images/gallery/e-interface.png)
+![1-splitscreen](./images/gallery/1-splitscreen.png)
+![2-splitscreen](./images/gallery/2-splitscreen.png)
+![3-splitscreen](./images/gallery/3-splitscreen.png)
+![4-splitscreen](./images/gallery/4-splitscreen.png)
+![5-splitscreen](./images/gallery/5-splitscreen.png)

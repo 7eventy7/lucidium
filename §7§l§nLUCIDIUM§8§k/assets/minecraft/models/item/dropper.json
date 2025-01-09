@@ -1,12 +1,12 @@
 {
 	"credit": "Made by 7eventy7",
 	"textures": {
-		"0": "block/dropper_top_on",
-		"1": "block/dropper_back_on",
-		"2": "block/dropper_bottom_on",
-		"3": "block/dropper_front_on",
-		"4": "block/dropper_side_on",
-		"particle": "block/dropper_top_on"
+		"0": "block/dropper_top_off",
+		"1": "block/dropper_back_off",
+		"2": "block/dropper_bottom_off",
+		"3": "block/dropper_front_off",
+		"4": "block/dropper_side_off",
+		"particle": "block/dropper_top_off"
 	},
 	"elements": [
 		{

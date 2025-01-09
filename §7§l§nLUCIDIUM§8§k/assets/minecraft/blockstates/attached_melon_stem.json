@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north": [
+            { "model": "minecraft:block/melon_stem_attached", "weight": 15 },
+            { "model": "minecraft:block/melon_stem_flowering", "weight": 1 }
+        ],
+        "facing=south": [
+            { "model": "minecraft:block/melon_stem_attached", "y": 180, "weight": 15 },
+            { "model": "minecraft:block/melon_stem_flowering", "y": 180, "weight": 1 }
+        ],
+        "facing=east": [
+            { "model": "minecraft:block/melon_stem_attached", "y": 90, "weight": 15 },
+            { "model": "minecraft:block/melon_stem_flowering", "y": 90, "weight": 1 }
+        ],
+        "facing=west": [
+            { "model": "minecraft:block/melon_stem_attached", "y": 270, "weight": 15 },
+            { "model": "minecraft:block/melon_stem_flowering", "y": 270, "weight": 1 }
+        ]
+    }
+}

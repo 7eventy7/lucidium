@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/copper_bulb",
+  "parent": "minecraft:block/copper_bulb",
   "textures": {
     "all": "minecraft:block/waxed_copper_bulb"
   }

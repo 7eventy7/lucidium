@@ -1,7 +1,54 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/bedrock"
-    }
+    "": [
+      {
+        "model": "block/bedrock/block/0"
+      },
+      {
+        "model": "block/bedrock/block/1"
+      },
+      {
+        "model": "block/bedrock/block/2"
+      },
+      {
+        "model": "block/bedrock/block/3"
+      },
+      {
+        "model": "block/bedrock/block/4"
+      },
+      {
+        "model": "block/bedrock/block/5"
+      },
+      {
+        "model": "block/bedrock/block/6"
+      },
+      {
+        "model": "block/bedrock/block/7"
+      },
+      {
+        "model": "block/bedrock/block/8"
+      },
+      {
+        "model": "block/bedrock/block/9"
+      },
+      {
+        "model": "block/bedrock/block/10"
+      },
+      {
+        "model": "block/bedrock/block/11"
+      },
+      {
+        "model": "block/bedrock/block/12"
+      },
+      {
+        "model": "block/bedrock/block/13"
+      },
+      {
+        "model": "block/bedrock/block/14"
+      },
+      {
+        "model": "block/bedrock/block/15"
+      }
+    ]
   }
 }

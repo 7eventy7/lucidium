@@ -217,7 +217,7 @@
                 "power": 9
             },
             "apply": {
-                "model": "block/powerlevelover9000"
+                "model": "block/powerlevel09"
             }
         },
         {

@@ -1,0 +1,12 @@
+{
+    "credit": "Made by 7eventy7",
+    "parent": "minecraft:block/template_door_top_right_open",
+    "ambientocclusion": false,
+    "textures": {
+        "top_front": "minecraft:block/pale_oak_door_top_front",
+        "top_back": "minecraft:block/pale_oak_door_top_back",
+        "hinges": "minecraft:block/pale_oak_door_hinges",
+        "sides": "minecraft:block/pale_oak_door_sides",
+        "particle": "minecraft:block/pale_oak_door_top_front"
+    }
+}

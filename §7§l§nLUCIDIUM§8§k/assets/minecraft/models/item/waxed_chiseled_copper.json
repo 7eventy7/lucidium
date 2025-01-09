@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/chiseled_copper",
+  "parent": "minecraft:block/chiseled_copper",
   "textures": {
     "all": "minecraft:block/waxed_chiseled_copper"
   }
