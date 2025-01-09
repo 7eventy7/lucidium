@@ -1,6 +1,7 @@
-<img src="./images/header/features.png" height="50">
-
-[Back to Main](https://github.com/7eventy7/Lucidium)
+<div style="display: flex; align-items: center; gap: 16px;">
+  <img src="./images/header/features.png" style="height: 50px;">
+  <a href="https://github.com/7eventy7/Lucidium" style="display: inline-block; padding: 4px 12px; color: #FF6B71; text-decoration: none; border: 1px solid #FF6B71; border-radius: 4px; font-size: 12px;">BACK</a>
+</div>
 
 > A comprehensive categorized list of all the changes made in Lucidium.
 
