@@ -4,11 +4,20 @@
 
 ![lucidium-title](./images/title/lucidium-title.png)
 
-[![Modrinth](./images/icons/modrinth.png) Modrinth](https://modrinth.com/resourcepack/lucidium)
+<a href="https://modrinth.com/resourcepack/lucidium" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
+<img src="./images/icons/modrinth.png" alt="Modrinth" style="height: 5px; vertical-align: middle; margin-right: 5px;">
+Modrinth
+</a>
 
-[![PlanetMinecraft](./images/icons/planetminecraft.png) PlanetMinecraft](https://www.planetminecraft.com/texture-pack/lucidium/)
+<a href="https://www.planetminecraft.com/texture-pack/lucidium/" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
+<img src="./images/icons/planetminecraft.png" alt="PlanetMinecraft" style="height: 5px; vertical-align: middle; margin-right: 5px;">
+PlanetMinecraft
+</a>
 
-[![CurseForge](./images/icons/curseforge.png) CurseForge](https://www.curseforge.com/minecraft/texture-packs/lucidium)
+<a href="https://www.curseforge.com/minecraft/texture-packs/lucidium" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
+<img src="./images/icons/curseforge.png" alt="CurseForge" style="height: 5px; vertical-align: middle; margin-right: 5px;">
+CurseForge
+</a>
 
 </div>
 
@@ -22,7 +31,7 @@ Lucidium is a vanilla-like resource pack of tweaked assets, improvements to outd
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <img src="./images/header/features.png" style="height: 50px;">
-  <a href="https://github.com/7eventy7/Lucidium/blob/main/FEATURES.md" style="display: inline-block; padding: 4px 12px; color: #FF6B71; text-decoration: none; border: 1px solid #FF6B71; border-radius: 4px; font-size: 12px;">VIEW</a>
+  <a href="https://github.com/7eventy7/Lucidium/blob/main/FEATURES.md" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">VIEW</a>
 </div>
 
 > A fully fledged feature list describing everything that is included in the resource pack. All features are organized into categories based on what they change about the game. The list *should* be fully complete, however, if you notice any inconsistencies please raise an issue.
@@ -31,7 +40,7 @@ Lucidium is a vanilla-like resource pack of tweaked assets, improvements to outd
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <img src="./images/header/gallery.png" style="height: 50px;">
-  <a href="https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md" style="display: inline-block; padding: 4px 12px; color: #FF6B71; text-decoration: none; border: 1px solid #FF6B71; border-radius: 4px; font-size: 12px;">VIEW</a>
+  <a href="https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">VIEW</a>
 </div>
 
 > View side-by-side comparison images showcasing changes made by the resource pack. You can also see how these visual updates look within Minecraft scenes that you'd typically find in game.
@@ -40,7 +49,7 @@ Lucidium is a vanilla-like resource pack of tweaked assets, improvements to outd
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <img src="./images/header/credits.png" style="height: 50px;">
-  <a href="https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md" style="display: inline-block; padding: 4px 12px; color: #FF6B71; text-decoration: none; border: 1px solid #FF6B71; border-radius: 4px; font-size: 12px;">VIEW</a>
+  <a href="https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">VIEW</a>
 </div>
 
 > Lucidium features assets from various resource packs and creators, with explicit permission received from each. Full attribution for all assets and software used can be found in the credits file.
@@ -49,7 +58,7 @@ Lucidium is a vanilla-like resource pack of tweaked assets, improvements to outd
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <img src="./images/header/terms-of-use.png" style="height: 50px;">
-  <a href="https://github.com/7eventy7/Lucidium/blob/main/LICENSE.md" style="display: inline-block; padding: 4px 12px; color: #FF6B71; text-decoration: none; border: 1px solid #FF6B71; border-radius: 4px; font-size: 12px;">VIEW</a>
+  <a href="https://github.com/7eventy7/Lucidium/blob/main/LICENSE.md" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">VIEW</a>
 </div>
 
 > Before using any assets from Lucidium, please message me for permission and obtain approval from any other credited creators whose assets you intend to use. All content is protected under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license terms.
