@@ -1,6 +1,6 @@
-# Features
+<img src="./images/header/features.png" height="50">
 
-[![Back to Main](./images/header/features.png)](https://github.com/7eventy7/Lucidium)
+[Back to Main](https://github.com/7eventy7/Lucidium)
 
 > A comprehensive categorized list of all the changes made in Lucidium.
 
