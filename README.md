@@ -9,12 +9,12 @@
     <img src="./images/icons/modrinth.png" alt="Modrinth" style="height: 16px; vertical-align: middle; margin-right: 5px;">
     Modrinth
   </a>
-  <span style="color: #FF6B71; margin: 0 5px;">-</span>
+  <span style="color: #FF6B71; margin: 0 10px;">  |  </span>
   <a href="https://www.planetminecraft.com/texture-pack/lucidium/" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
     <img src="./images/icons/planetminecraft.png" alt="PlanetMinecraft" style="height: 16px; vertical-align: middle; margin-right: 5px;">
     PlanetMinecraft
   </a>
-  <span style="color: #FF6B71; margin: 0 5px;">-</span>
+  <span style="color: #FF6B71; margin: 0 10px;">  |  </span>
   <a href="https://www.curseforge.com/minecraft/texture-packs/lucidium" style="display: inline-block; width: 140px; padding: 8px; margin: 5px; background-color: #260923; color: white; text-decoration: none; border: 2px solid #FF6B71; border-radius: 5px; text-align: center; font-size: 12px;">
     <img src="./images/icons/curseforge.png" alt="CurseForge" style="height: 16px; vertical-align: middle; margin-right: 5px;">
     CurseForge
