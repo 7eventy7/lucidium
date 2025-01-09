@@ -1,15 +1,8 @@
-
-
 <div align="center">
 
 ![lucidium-title](./images/title/lucidium-title.png)
 
-[![Modrinth](./images/icons/modrinth.png) Modrinth](https://modrinth.com/resourcepack/lucidium)
-<br><br>
-[![PlanetMinecraft](./images/icons/planetminecraft.png) PlanetMinecraft](https://www.planetminecraft.com/texture-pack/lucidium/)
-<br><br>
-[![CurseForge](./images/icons/curseforge.png) CurseForge](https://www.curseforge.com/minecraft/texture-packs/lucidium)
-
+[Modrinth](https://modrinth.com/resourcepack/lucidium) | [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/lucidium/) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/lucidium)
 </div>
 
 <hr>
